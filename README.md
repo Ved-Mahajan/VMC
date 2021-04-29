@@ -1,5 +1,5 @@
 # VMC
-Code and Project report for quantum mechanics 2 course
+This repository contains all the codes used to generate the plots used in the porject report on the topic Variational Monte Carlo. I have also included the simulation results as a `.csv` file in the folder `data`. 
 
 # Run the code online on Binder.
 
@@ -14,3 +14,5 @@ Particle in a box: https://github.com/Ved-Mahajan/VMC/blob/master/particle_in_a_
 Heilium Atom: https://github.com/Ved-Mahajan/VMC/blob/master/helium_atom.jl
 
 It will take some time to start and run for the fist time as it has to download the package `Plots.jl`, so please be patient 😄
+
+PS: There is a file included for particle in a box which is not included in the report as it needs some more working.
